@@ -1,9 +1,8 @@
 # College_Scorecard_US
--- Hello!
+-- Hello! ✋
+Welcome to one of my very first projects 🥳
 
-Welcome to one of my very first projects :)
-
-# Dataset
+# Dataset 📎
 I took the Data for this project from the U.S. Department of Education.
 
 The Dataset is publicly open for everyone under this link https://data.ed.gov/dataset/college-scorecard-all-data-files/resources
@@ -21,7 +20,7 @@ As you may have guessed, I did learn Postgres Syntax first and although there ar
 
 Apart from creating a DB in a software I had never used before, I also had to clean up the data... Most of the numeric variables were considered character variables, so I used Excel's Power Query tool to transform all missing data pieces and change the datatype around. I know I could have also used SQL directly, but because I had to go through the dataset anyway, I decided to use Power Query instead.
 
-# Softwares Used
+# Softwares Used 💻
 Except for MSSQ and Excel, I pretty much only used Azure Data Studio.
 
 I must say that it was very pleasant to use this tool... Although there are some restrictions on compatibility that could be solved :(
@@ -31,4 +30,4 @@ I must say that it was very pleasant to use this tool... Although there are some
 # 
 The File is a SQL file that contains all the queries I created, which start at the very basics and deep dive into more and more complex queries.
 
-I hope you enjoy it.
+I hope you enjoy it. 👾
