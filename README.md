@@ -19,6 +19,8 @@ I therefore, had to become comfortable using MSSQL, the Import/Export tool and e
 
 As you may have guessed, I did learn Postgres Syntax first and although there are only a few differences, those differences can be huge (Ex. Window Functions)
 
+Apart from creating a DB in a software I had never used before, I also had to clean up the data... Most of the numeric variables were considered character variables, so I used Excel's Power Query tool to transform all missing data pieces and change the datatype around. I know I could have also used SQL directly, but because I had to go through the dataset anyway, I decided to use Power Query instead.
+
 # Softwares Used
 Except for MSSQ and Excel, I pretty much only used Azure Data Studio.
 
