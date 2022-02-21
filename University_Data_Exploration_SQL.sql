@@ -386,5 +386,5 @@ SELECT TOP 5 INSTNM, CITY, STATE, ADM_RATE, UGDS, TOTAL_INST
 FROM RANKING 
 WHERE RANKS_BY_MEAN = 1 AND STUDENT_COUNT_CHECK = 'ABOVE AVG'
 ORDER BY ADM_RATE DESC; --Big universities, top 1 of their States in terms of Sat Score, WITH A HIGH ADMISION RATE.
--- My personal option would be to go for University of Kansas when trying to get into college... It is a safe, but still good option among 19 other State selections.
+--Without a clue of how these universities really are, if I wanted to ensure I got into a decent College, I would go for University of Kansas...
 
