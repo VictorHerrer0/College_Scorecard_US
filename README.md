@@ -2,6 +2,14 @@
 -- Hello! ✋
 Welcome to one of my very first projects 🥳
 
+I have always wondered how US-based students decide which university to go for when the time comes... So many of them to choose from and yet, no guarantee of getting accepted in any of them.
+
+That is why in this project I focus on retrieving and exploring a Scorecard dataset, that contains information such as location, admision rate, average cost, etc. for over 6000 universities in the US, to show young students who are about to graduate from high school, that there is a more practical approach towards "College Appplications".
+ 
+
+As I started exploring the Database I felt like it was asking me to keep digging into it and keep developing my queries. That is where the name of this project comes from.
+
+
 # Dataset 📎
 I took the Data for this project from the U.S. Department of Education.
 
@@ -31,3 +39,26 @@ I must say that it was very pleasant to use this tool... Although there are some
 The File is a SQL file that contains all the queries I created, which start at the very basics and deep dive into more and more complex queries.
 
 I hope you enjoy it. 👾
+
+# Conclusion
+Learning is a key part of every project:
+
+​
+
+I am not joking when I say that I have just found out that indeed SQL is a really powerful tool.
+
+With just a bit of imagination you can get to know a lot about an unknown Database... And look at this, I have only coded 300 lines of SQL queries.
+
+​
+
+Did you know that the university of Columbia only accepted about 5% of its 150000 applicants in 2020?
+
+And
+
+Did you know that on top tier universities like Stanford, Harvard or Yale, the loan share for students has decreased more than 5-7% during the last 3 years?
+
+It is not only that, but they actually increased costs as well...​
+
+​
+
+I know this for a fact, because I saw the data, trust me.
