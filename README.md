@@ -23,7 +23,7 @@ To be able to start running queries on the dataset, I first had to transform the
 
 This seemed quite easily at first; However the only way I found to accomplish this, was by using MSSQL instead of PgAdmin4, which was initially my preferred option.
 
-I therefore, had to become comfortable using MSSQL, the Import/Export tool and eventually SQL Server.
+I therefore, had to become comfortable using MS SQL Server Management Studio, the Import/Export tool and eventually SQL Server.
 
 As you may have guessed, I did learn Postgres Syntax first and although there are only a few differences, those differences can be huge (Ex. Window Functions)
 
